@@ -31,11 +31,11 @@ Quiz Game'in amacı oyunculara eğlenceli bir şekilde bilgi testi yapma fırsat
 
 ---
 
-<b> Oyun videosu </b>
+<h3> <b> Oyun videosu </b> </h3>
 https://youtu.be/IInRhBZ4veY
 
-İletişim bilgileri:
+<h3> <b> İletişim bilgileri: </b> </h3>
 
-mail: nagirash@bk.ru
+<b> e-mail: </b> nagirash@bk.ru
 
 nagiwwq1@gmail.com
