@@ -1,2 +1,2 @@
-# starry-night-quiz-game-
+# starry night quiz game
 Oyun programlama final projesi
