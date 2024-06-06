@@ -23,6 +23,9 @@ Quiz Game'in amacı oyunculara eğlenceli bir şekilde bilgi testi yapma fırsat
 
 ![Oyun görünüşü](https://github.com/nagiess/starry-night-quiz-game-/assets/148623070/3f561680-34f6-4b93-a9dc-c14f9febd111)
 
+![starry night quiz game - Game - Windows, Mac, Linux - Unity 2022 3 22f1 _DX11_ 06 06 2024 18_07_11](https://github.com/nagiess/starry-night-quiz-game-/assets/148623070/23a8707f-9309-44f0-9d1c-214ea02cfc52)
+
+
 ***
 
 <h3> <b> Oyun bitiş ekranı: </b> </h3>
